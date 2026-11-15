@@ -1,2 +1,2 @@
 # XYZ
-Power by &lt;YiJing>
+Powered by &lt;YiJing>
